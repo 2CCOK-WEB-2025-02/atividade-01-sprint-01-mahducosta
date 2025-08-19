@@ -2,6 +2,7 @@ package school.sptech.sprint1_nota1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import school.sptech.sprint1_nota1.ex3.ExercicioDificilResponse;
 
 @SpringBootApplication
 public class Sprint1Nota1Application {
